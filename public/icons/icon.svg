@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#245C45"/>
+  <!-- Subtle circular pond background -->
+  <circle cx="256" cy="256" r="180" fill="#1E4D3A"/>
+  <!-- Fish icon vector -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Fish body -->
+    <path d="M410 256c-60-80-160-100-240-60-50 25-80 80-80 60s30 35 80 60c80 40 180 20 240-60z" fill="#2E7D52"/>
+    <!-- Tail fin -->
+    <path d="M110 256L50 190v132l60-66z" fill="#FFFFFF"/>
+    <!-- Eye -->
+    <circle cx="360" cy="235" r="14" fill="#FFFFFF"/>
+    <!-- Gills -->
+    <path d="M300 220c-15 20-15 50 0 70"/>
+    <!-- Fin -->
+    <path d="M240 256c-20 25-10 45 10 50" fill="#FFFFFF" fill-opacity="0.3"/>
+  </g>
+  <!-- Small water bubbles -->
+  <circle cx="430" cy="180" r="16" fill="#8CE8C2" opacity="0.8"/>
+  <circle cx="455" cy="130" r="10" fill="#8CE8C2" opacity="0.6"/>
+</svg>
